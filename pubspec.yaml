@@ -1,5 +1,5 @@
 name: moonbti
-description: "문BTI - 나의 문학 성향 테스트"
+description: "MoonBTI - A literary personality test app that maps your writing taste to MBTI-style author profiles."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
