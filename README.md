@@ -1,5 +1,9 @@
 # 문BTI (MoonBTI)
 
+[![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-Language-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 문BTI는 사용자의 문학적 취향을 MBTI 프레임으로 해석해, 결과를 대표 작가/작품/문장으로 연결해 주는 Flutter 앱입니다.
 
 기존의 단순 심리 테스트 UI가 아니라, 다음 두 가지를 동시에 만족하는 것을 목표로 설계되었습니다.
