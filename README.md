@@ -1,3 +1,5 @@
+[DeepL Translation of dalgona039/Moon-BTI]
+
 # 문BTI (MoonBTI)
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
